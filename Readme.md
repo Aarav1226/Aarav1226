@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:364F6B,50:3FC1C9,100:FC5185&height=220&section=header&text=Shantanu%20Pathak&fontSize=42&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:364F6B,50:3FC1C9,100:FC5185&height=220&section=header&text=Aarav%20Saxena&fontSize=42&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18"/>
 
 </div>
 
@@ -38,8 +38,8 @@ I'm **Aarav**, a Software Engineering student with a strong foundation in **C, H
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-364F6B?style=for-the-badge&logo=instagram&logoColor=F5F5F5)](https://instagram.com/pathakshantanu29)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3FC1C9?style=for-the-badge&logo=linkedin&logoColor=364F6B)](https://www.linkedin.com/in/shantanu-pathak-1a532a2a6/)
-[![Gmail](https://img.shields.io/badge/Email-FC5185?style=for-the-badge&logo=gmail&logoColor=F5F5F5)](mailto:shantanupathak29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3FC1C9?style=for-the-badge&logo=linkedin&logoColor=364F6B)](https://www.linkedin.com/in/aaravsaxena26/)
+[![Gmail](https://img.shields.io/badge/Email-FC5185?style=for-the-badge&logo=gmail&logoColor=F5F5F5)](mailto:26aarav.sins@gmail.com)
 
 </div>
 
@@ -86,10 +86,10 @@ I'm **Aarav**, a Software Engineering student with a strong foundation in **C, H
 
 <br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=shantanupathak29&theme=transparent&hide_border=true&title_color=FC5185&icon_color=3FC1C9&text_color=e6e6e6&ring_color=364F6B&include_all_commits=false&count_private=false" width="49%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantanupathak29&theme=transparent&hide_border=true&title_color=FC5185&text_color=e6e6e6&langs_count=8&layout=compact" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Aarav1226&theme=transparent&hide_border=true&title_color=FC5185&icon_color=3FC1C9&text_color=e6e6e6&ring_color=364F6B&include_all_commits=false&count_private=false" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aarav1226&theme=transparent&hide_border=true&title_color=FC5185&text_color=e6e6e6&langs_count=8&layout=compact" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=shantanupathak29&theme=transparent&hide_border=true&ring=364F6B&fire=FC5185&currStreakLabel=3FC1C9&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8a8a8a" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Aarav1226&theme=transparent&hide_border=true&ring=364F6B&fire=FC5185&currStreakLabel=3FC1C9&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8a8a8a" width="70%"/>
 
 </div>
 
@@ -97,7 +97,7 @@ I'm **Aarav**, a Software Engineering student with a strong foundation in **C, H
 
 <div align="center">
 
-[![Shantanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanupathak29&bg_color=00000000&color=FC5185&line=364F6B&point=3FC1C9&area=true&hide_border=true)](https://github.com/shantanupathak29-hash)
+[![Aarav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarav1226&bg_color=00000000&color=FC5185&line=364F6B&point=3FC1C9&area=true&hide_border=true)](https://github.com/Aarav1226/)
 
 </div>
 
